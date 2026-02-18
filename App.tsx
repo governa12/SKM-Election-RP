@@ -15,7 +15,7 @@ import { fetchElectionData } from './services/dataService';
 import { PartyData, NewsUpdate } from './types';
 import { LanguageProvider, useLanguage } from './LanguageContext';
 
-const NEWS_LOGO_URL = 'https://media.discordapp.net/attachments/1303345176076615722/1473265950060187773/image_5.png?ex=69959556&is=699443d6&hm=ce93b2bf04b8bcab9a00a0dd59e87ad045db12b0acca3f08a97db494d3b2d6e0&=&format=webp&quality=lossless&width=1350&height=645';
+const NEWS_LOGO_URL = 'https://media.discordapp.net/attachments/1303345176076615722/1473265950060187773/image_5.png?ex=6996e6d6&is=69959556&hm=9d716baca811cd93dc47fdd1da12ac317cb01287af9084cb8ab0e05d0eb6103e&=&format=webp&quality=lossless&width=1350&height=645';
 const SYNC_POLL_INTERVAL = 10000;
 const TRANSITION_DELAY = 2500;
 
